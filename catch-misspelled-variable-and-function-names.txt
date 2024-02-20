@@ -1,0 +1,6 @@
+// 'i' and 'e' was changed in "receivables" and missing 's' in "payables" was added
+
+let receivables = 10;
+let payables = 8;
+let netWorkingCapital = receivables - payables;
+console.log(`Net working capital is: ${netWorkingCapital}`);
